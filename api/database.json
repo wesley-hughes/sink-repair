@@ -1,0 +1,66 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ],
+  "requests": [
+    {
+      "description": "Tub leaking in upstairs bathroom",
+      "address": "1 main st",
+      "budget": "50",
+      "neededBy": "2023-02-04",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "description": "Toilet ring needs replacing",
+      "address": "4 Belair Way",
+      "budget": "250",
+      "neededBy": "2023-02-07",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "description": "Guest bath needs to be re-caulked",
+      "address": "45 Saints Ave",
+      "budget": "150",
+      "neededBy": "2023-02-10",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "description": "Kitchen sink clogged, disposal not working",
+      "address": "24 Jeanne Dr",
+      "budget": "75",
+      "neededBy": "2023-02-14",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
